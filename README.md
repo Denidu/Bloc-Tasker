@@ -1,16 +1,20 @@
-# bloctasker
+# 🧠 Pro Task Manager – BLoC Showcase
 
-A new Flutter project.
+A Flutter project demonstrating **advanced state management using BLoC**. Designed for developers who want to showcase modular architecture, clean logic separation, and professional development practices.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Task management with `TaskBloc`
+- Data sync simulation with `SyncBloc`
+- Retry mechanism using `RetryBloc`
+- Connectivity simulation via `ConnectionBloc`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ Getting Started
+
+```bash
+flutter pub get
+flutter run
